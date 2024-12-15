@@ -22,6 +22,12 @@ The game was realized in the frame of the course [CS-444 Virtual Reality](https:
 
 <img align="center" width="auto" alt="Immagine 2022-08-10 175533" src="https://user-images.githubusercontent.com/62103572/183955610-5105b724-b564-479c-a8bd-f64a0933ed62.png">
 
+## Gameplay Trailer
+The GIF and video that follow contain some gameplay scenes that might represent a **spoiler** of the solution of some riddles in the game. Be aware of this before watching them, if you want to play the game. Since GitHub doesn't let upload videos bigger than 10MB, the video had to be compressed and the quality is much lower than the original.  :(
+
+
+https://user-images.githubusercontent.com/62103572/183925619-1bf638b2-4384-43f7-94e9-44aaac373e29.mp4
+
 ## Authors
 - [Elia Fantini](https://github.com/EliaFantini)
 - [Olivier Lonneux](https://github.com/Olivier-Lonneux)
@@ -29,13 +35,6 @@ The game was realized in the frame of the course [CS-444 Virtual Reality](https:
 
 ## How to play
 The game was built as an **.apk** file of 139 MB. Download the game from [here](https://drive.google.com/file/d/11GLue_6yvf3JiYeFwc-NR2a00tw4diwA/view?usp=sharing) (if the download link expires, please contact me). To install on your Oculus Quest an apk that does not come from the oculus quest store, you can follow one of the many tutorials on the web, like [this one](https://www.youtube.com/watch?v=WIbSYRc0ICk).
-
-## Gameplay Trailer
-The GIF and video that follow contain some gameplay scenes that might represent a **spoiler** of the solution of some riddles in the game. Be aware of this before watching them, if you want to play the game. Since GitHub doesn't let upload videos bigger than 10MB, the video had to be compressed and the quality is much lower than the original.  :(
-
-
-https://user-images.githubusercontent.com/62103572/183925619-1bf638b2-4384-43f7-94e9-44aaac373e29.mp4
-
 
 ## Files description
 
